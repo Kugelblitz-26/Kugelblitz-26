@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!  
 
 ## 🚀 About Me  
-- 🎓 Master's student in **Embedded Systems** at Universität Siegen  
+- 🎓 Master's student in **Computer Science** at Universität Siegen  
 - 📊 Passionate about **Data Science, Machine Learning & Deep Learning**  
 - 🔬 Interested in **real-time systems, ubiquitous computing, and AI applications**  
 - 🌱 Currently working on:
