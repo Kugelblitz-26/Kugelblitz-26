@@ -29,8 +29,8 @@ Welcome to my GitHub profile!
 
 ## 📫 Connect with Me  
 - ✉️ Email: premyshinde@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/premyshinde/(#)  
-- 🌍 Portfolio: [Your Website](#)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/premyshinde/)  
+- 🌍 Portfolio: [ Website](https://www.linkedin.com/in/premyshinde/)  
 
 ---
 ✨ *Always curious, always building.*  
