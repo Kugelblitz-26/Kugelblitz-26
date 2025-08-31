@@ -29,8 +29,8 @@ Welcome to my GitHub profile!
 
 ## 📫 Connect with Me  
 - ✉️ Email: premyshinde@gmail.com  
-- 💼 LinkedIn: (https://www.linkedin.com/in/premyshinde/)  
-- 🌍 Portfolio: [ Website](https://www.linkedin.com/in/premyshinde/)  
+- 💼 LinkedIn: [Linkdin](https://www.linkedin.com/in/premyshinde/)  
+- 🌍 Portfolio: [ Website](https://kugelblitz-26.github.io/)  
 
 ---
 ✨ *Always curious, always building.*  
